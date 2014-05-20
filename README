@@ -1,3 +1,11 @@
 git status -> to check status of the repository
 git add file/dir -> to add file or directory
 git clone repository -> clone repository
+git commit -m 'comments here' -> commit changes
+delete file -> using standard os command then git commit to commit
+git log -> log of commit
+git remote -v  -> List remote repository URL
+git push origin master -> push local repository to remote repository
+
+rsa
+ssh-add ~/.ssh/github_rsa
